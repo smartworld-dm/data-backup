@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="@dimen/brave_shields_second_group_item_height"
+    android:paddingStart="15dp"
+    style="@style/AppMenuItem"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox
+        android:id="@+id/brave_shields_ads_tracking_switch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:theme="@style/ThemeWithActionBar"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:switchMinWidth="56dp" />
+        <TextView
+            android:id="@+id/brave_shields_ads_tracking_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:textColor="@android:color/black"
+            android:text="@string/brave_shields_ads_tracking_switch"
+            android:layout_toStartOf="@id/brave_shields_ads_tracking_switch"
+            android:layout_alignParentStart="true"
+            android:orientation="horizontal" />
+
+
+
+
+    </RelativeLayout>
+
+

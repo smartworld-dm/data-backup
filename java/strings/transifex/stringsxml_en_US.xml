@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="brave_settings_title">Adblocker Turbo site shield settings for</string>
+    <string name="brave_shields_down">Down</string>
+    <string name="brave_shields_up">Up</string>
+    <string name="brave_shields_ads_trackers">Ads and Trackers Blocked</string>
+    <string name="brave_shields_https_upgrades">HTTPS Upgrades</string>
+    <string name="brave_shields_scripts_blocked">Scripts Blocked</string>
+    <string name="brave_shields_ads_tracking_switch">Block Ads and Tracking</string>
+    <string name="brave_shields_https_everywhere_switch">HTTPS Everywhere</string>
+    <string name="brave_shields_blocks_scripts_switch">Block Scripts</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Enable/Disable Adblocker Turbo Shields</string>
+    <string name="brave_shields_block_3rd_party_cookies_switch">Block 3rd party cookies</string>
+
+    <string name="httpse_summary">Opens supported sites using HTTPS instead of HTTP when possible</string>
+    <string name="tracking_protection_title">Tracking Protection Mode</string>
+    <string name="tracking_protection_summary">Prevents resources that track you from loading</string>
+    <string name="ad_block_title">Ad Block</string>
+    <string name="ad_block_summary">Prevents ads from loading</string>
+
+    <string name="fingerprinting_protection_title">Fingerprinting Protection</string>
+    <string name="fingerprinting_protection_summary">Prevents browser from fingerprinting</string>
+    <string name="brave_shields_fingerprints_blocked">Fingerprinting Methods Blocked</string>
+    <string name="brave_shields_block_fingerprints_switch">Fingerprinting Protection</string>
+
+    <string name="ad_block_regional_title">Regional Ad Block</string>
+    <string name="ad_block_regional_summary">Prevents regional ads from loading</string>
+
+    <string name="ad_block_regional_summary_no_list">No additional lists available for your locale</string>
+
+    <string name="menu_exit">Exit</string>
+
+    <string name="brave_sync">Adblocker Turbo Sync</string>
+    <string name="brave_sync_description">Sync browser data between your devices
+securely using Adblocker Turbo Sync, no account
+creation required. Tap below to get started.</string>
+    <string name="brave_sync_have_existing_code">I have an existing sync code</string>
+    <string name="sync_settings_add_device_name_title">Add device name</string>
+    <string name="sync_settings_add_device_name_label">Enter an optional name for this device</string>
+    <string name="sync_example_device_name">Android device</string>
+    <string name="brave_sync_qrcode">Sync to device</string>
+    <string name="brave_sync_qrcode_message">Using existing synced device open Adblocker Turbo
+Settings and navigate to "Device &amp;
+Settings", tap `+` to add a new device and
+reveal sync code.</string>
+    <string name="enter_code_words_sync">Enter code words</string>
+    <string name="enter_code_words_below_sync">Enter code words below.</string>
+    <string name="sync_device">Sync device</string>
+    <string name="sync_device_failure">Sync could not be setup</string>
+    <string name="sync_device_success">The sync setup has completed successfully</string>
+    <string name="reset_sync">Reset Sync...</string>
+    <string name="resetting_sync">Are you sure you want to reset this device Sync settings?</string>
+
+    <string name="brave_stats_text_trackers">Trackers
+Blocked</string>
+    <string name="brave_stats_text_ads">Ads
+Blocked</string>
+    <string name="brave_stats_text_https">HTTPS
+Upgrades</string>
+    <string name="brave_stats_text_time">Est. Time
+Saved</string>
+
+    <string name="send_metrics_title">Send metrics</string>
+
+    <string name="desktop_mode_title">Desktop Mode</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Prefer desktop version of sites</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Prefer mobile version of sites</string>
+    <string name="website_settings_category_desktop_view_enabled">Enable Desktop View for new tabs</string>
+    <string name="website_settings_category_desktop_view_disabled">Use mobile versions of sites for new tabs (recommended)</string>
+
+    <string name="brave_shields_first_group_title">Blocking Monitor</string>
+    <string name="brave_shields_second_group_title">Individual Controls</string>
+    <string name="brave_shields">Shields</string>
+    <string name="brave_shields_ads_and_trackers">Ads and Trackers</string>
+    <string name="brave_shields_fingerprint_methods">Fingerprint Methods</string>
+    <string name="brave_shields_block_phishing_switch">Block Phishing</string>
+
+</resources>

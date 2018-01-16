@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="brave_settings_title">„Adblocker Turbo“ svetainės skydo nustatymai, skirti</string>
+    <string name="brave_shields_down">Išjungta</string>
+    <string name="brave_shields_up">Įjungta</string>
+    <string name="brave_shields_ads_trackers">Užblokuota reklamų ir seklių</string>
+    <string name="brave_shields_https_upgrades">HTTPS atnaujinimų</string>
+    <string name="brave_shields_scripts_blocked">Užblokuoti scenarijai</string>
+    <string name="brave_shields_ads_tracking_switch">Blokuoti reklamas ir seklius</string>
+    <string name="brave_shields_https_everywhere_switch">HTTPS Everywhere</string>
+    <string name="brave_shields_blocks_scripts_switch">Blokuoti scenarijus</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Įjungti / išjungti „Adblocker Turbo“ skydus</string>
+    <string name="brave_shields_block_3rd_party_cookies_switch">Blokuoti trečiųjų šalių slapukus</string>
+
+    <string name="httpse_summary">Kai įmanoma, atveria palaikomas svetaines naudojant HTTPS, o ne HTTP</string>
+    <string name="tracking_protection_title">Apsaugos nuo sekimo veiksena</string>
+    <string name="tracking_protection_summary">Neleidžia paleisti išteklių, kurie seka jūsų veiksmus</string>
+    <string name="ad_block_title">Reklamos blokavimas</string>
+    <string name="ad_block_summary">Neleidžia įkelti reklamų</string>
+
+    <string name="fingerprinting_protection_title">Pirštų atspaudų apsauga</string>
+    <string name="fingerprinting_protection_summary">Neleidžia naršyklei naudoti pirštų atspaudų</string>
+    <string name="brave_shields_fingerprints_blocked">Pirštų atspaudų metodai blokuoti</string>
+    <string name="brave_shields_block_fingerprints_switch">Pirštų atspaudų apsauga</string>
+
+    <string name="ad_block_regional_title">Regioninės reklamos blokavimas</string>
+    <string name="ad_block_regional_summary">Neleidžia įkelti regioninių reklamų</string>
+
+    <string name="ad_block_regional_summary_no_list">Jūsų lokalei nėra kitų sąrašų</string>
+
+    <string name="menu_exit">Išėjimas</string>
+
+    <string name="brave_sync">„Adblocker Turbo Sync“</string>
+    <string name="brave_sync_description">Saugiai sinchronizuokite duomenis tarp savo
+prietaisų naudodami „Adblocker Turbo Sync“ – tam nereikia
+kurti paskyros. Jei norite pradėti,
+palieskite apačioje.</string>
+    <string name="brave_sync_have_existing_code">Turiu sinchronizavo kodą</string>
+    <string name="sync_settings_add_device_name_title">Įrašykite prietaiso pavadinimą</string>
+    <string name="sync_settings_add_device_name_label">Įveskite kitą šio prietaiso pavadinimą</string>
+    <string name="sync_example_device_name">„Android“ prietaisas</string>
+    <string name="brave_sync_qrcode">Sinchronizuoti prietaisą</string>
+    <string name="brave_sync_qrcode_message">Sinchronizuotame prietaise eikite į „Adblocker Turbo Settings“ (nustatymai),
+ten eikite į „Device &amp;Settings“ (prietaisas ir nustatymai),
+kur palieskite „+“, kad įrašytumėte naują prietaisą
+ir pamatytumėte sinchronizavo kodą.</string>
+    <string name="enter_code_words_sync">Įveskite žodinį kodą</string>
+    <string name="enter_code_words_below_sync">Apačioje įveskite žodinį kodą.</string>
+    <string name="sync_device">Sinchronizuoti prietaisą</string>
+    <string name="sync_device_failure">Nepavyko atlikti sinchronizavimo</string>
+    <string name="sync_device_success">Sinchronizavimas atliktas sėkmingai</string>
+    <string name="reset_sync">Sinchronizuoti iš naujo...</string>
+    <string name="resetting_sync">Ar tikrai norite atkurti standartinius šio prietaiso sinchronizavo nustatymus?</string>
+
+    <string name="brave_stats_text_trackers">Blokuotos
+sekimo failai</string>
+    <string name="brave_stats_text_ads">Blokuotos
+reklamos</string>
+    <string name="brave_stats_text_https">HTTPS
+atnaujinimai</string>
+    <string name="brave_stats_text_time">Rytų Laikas
+Išsaugoti</string>
+
+    <string name="send_metrics_title">Siųsti metriką</string>
+
+    <string name="desktop_mode_title">Darbalaukio veiksena</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Geriau naudoti svetainių darbalaukio versiją</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Geriau naudoti svetainių mobiliąją versiją</string>
+    <string name="website_settings_category_desktop_view_enabled">Įjungti naujų skirtukų darbalaukio versiją</string>
+    <string name="website_settings_category_desktop_view_disabled">Naujiems svetainių skirtukams naudoti mobiliąją versiją (rekomenduojama)</string>
+
+    </resources>
