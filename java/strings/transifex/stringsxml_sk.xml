@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="brave_settings_title">Nastavenie webovej ochrany Adblocker Turbo pre:</string>
+    <string name="brave_shields_down">Dole</string>
+    <string name="brave_shields_up">Hore</string>
+    <string name="brave_shields_ads_trackers">Reklamy a sledovanie zablokované</string>
+    <string name="brave_shields_https_upgrades">Upgrady HTTPS</string>
+    <string name="brave_shields_scripts_blocked">Skripty zablokované</string>
+    <string name="brave_shields_ads_tracking_switch">Zablokovať reklamy a sledovanie</string>
+    <string name="brave_shields_https_everywhere_switch">HTTPS všade</string>
+    <string name="brave_shields_blocks_scripts_switch">Zablokovať skripty</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Aktivovať/deaktivovať ochrany Adblocker Turbo</string>
+    <string name="brave_shields_block_3rd_party_cookies_switch">Blokovať súbory cookie tretích strán</string>
+
+    <string name="httpse_summary">Otvára podporované stránky prostredníctvom HTTPS namiesto HTTP vždy, keď je to možné</string>
+    <string name="tracking_protection_title">Režim ochrany pred sledovaním</string>
+    <string name="tracking_protection_summary">Zabraňuje načítaniu objektov, ktoré sledujú vašu činnosť</string>
+    <string name="ad_block_title">Blokovanie reklamy</string>
+    <string name="ad_block_summary">Zabraňuje načítaniu reklám</string>
+
+    <string name="fingerprinting_protection_title">Ochrana proti otisku prehliadača</string>
+    <string name="fingerprinting_protection_summary">Zamedzuje otisku prehliadača</string>
+    <string name="brave_shields_fingerprints_blocked">Metódy otisku prehliadača sú blokované</string>
+    <string name="brave_shields_block_fingerprints_switch">Ochrana proti otisku prehliadača</string>
+
+    <string name="ad_block_regional_title">Blokovanie regionálnych reklám</string>
+    <string name="ad_block_regional_summary">Zamedzuje načítaniu regionálnych reklám</string>
+
+    <string name="ad_block_regional_summary_no_list">Žiadne ďalšie zoznamy nie sú dostupné pre vaše miestne nastavenie</string>
+
+    <string name="menu_exit">Východ</string>
+
+    <string name="brave_sync">Adblocker Turbo Sync</string>
+    <string name="brave_sync_description">Bezpečne synchronizujte údaje prehliadača medzi
+vašimi zariadeniami pomocou Adblocker Turbo Sync,
+nie je potrebné vytvárať účet.
+Kliknite nižšie na odštartovanie.</string>
+    <string name="brave_sync_have_existing_code">Mám existujúci synchronizačný kód</string>
+    <string name="sync_settings_add_device_name_title">Pridajte názov zariadenia</string>
+    <string name="sync_settings_add_device_name_label">Zadajte nepovinný názov pre toto zariadenie</string>
+    <string name="sync_example_device_name">Android zariadenie</string>
+    <string name="brave_sync_qrcode">Synchronizácia so zariadením</string>
+    <string name="brave_sync_qrcode_message">Pomocou existujúceho synchronizovaného zariadenia
+otvorte Adblocker Turbo Settings a prejdite na
+"Device &amp;Settings" (nastavenia zariadenia),
+kliknite na "+" na pridanie nového zariadenia
+a zobrazenie synchronizačného kódu.</string>
+    <string name="enter_code_words_sync">Zadajte kódové slová</string>
+    <string name="enter_code_words_below_sync">Zadajte nižšie kódové slová.</string>
+    <string name="sync_device">Synchronizované zariadenie</string>
+    <string name="sync_device_failure">Synchronizáciu nie je možné nastaviť</string>
+    <string name="sync_device_success">Nastavovanie synchronizácie bolo úspešne ukončené</string>
+    <string name="reset_sync">Reštartovať synchronizácie...</string>
+    <string name="resetting_sync">Ste si istí, že chcete resetovať nastavenia synchronizácie tohto zariadenia?</string>
+
+    <string name="brave_stats_text_trackers">Sledovanie
+zablokované</string>
+    <string name="brave_stats_text_ads">Reklamy
+zablokované</string>
+    <string name="brave_stats_text_https">Upgrady
+HTTPS</string>
+    <string name="brave_stats_text_time">Odhad.
+ušetrený čas</string>
+
+    <string name="send_metrics_title">Odoslať metriky</string>
+
+    <string name="desktop_mode_title">Desktopový režim</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">Uprednostňujte desktopovú verziu stránok</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">Uprednostňujte mobilnú verziu stránok</string>
+    <string name="website_settings_category_desktop_view_enabled">Povoľte desktopové zobrazenie pre nové karty</string>
+    <string name="website_settings_category_desktop_view_disabled">Používajte mobilné verzie stránok pre nové karty (odporúčané)</string>
+
+    <string name="brave_shields_first_group_title">Monitorovanie blokovania</string>
+    <string name="brave_shields_second_group_title">Individuálne nastavenia</string>
+    <string name="brave_shields">Štíty</string>
+    <string name="brave_shields_ads_and_trackers">Reklama a sledovanie</string>
+    <string name="brave_shields_fingerprint_methods">Spôsoby identifikácie</string>
+    <string name="brave_shields_block_phishing_switch">Blokovanie phishingu</string>
+
+</resources>

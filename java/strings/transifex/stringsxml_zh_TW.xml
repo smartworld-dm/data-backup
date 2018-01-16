@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="brave_settings_title">Adblocker Turbo 網站防護設定</string>
+    <string name="brave_shields_down">關閉</string>
+    <string name="brave_shields_up">開啟</string>
+    <string name="brave_shields_ads_trackers">廣告和追蹤器已阻擋</string>
+    <string name="brave_shields_https_upgrades">HTTPS 升級</string>
+    <string name="brave_shields_scripts_blocked">腳本已禁用</string>
+    <string name="brave_shields_ads_tracking_switch">阻擋廣告和追蹤器</string>
+    <string name="brave_shields_https_everywhere_switch">HTTPS 無所不在</string>
+    <string name="brave_shields_blocks_scripts_switch">禁用腳本</string>
+    <string name="accessibility_toolbar_btn_brave_shields">啟用/停用 Adblocker Turbo 防護</string>
+    <string name="brave_shields_block_3rd_party_cookies_switch">封鎖第三方 Cookie</string>
+
+    <string name="httpse_summary">盡可能使用 HTTPS 而非 HTTP 開啟支援網站</string>
+    <string name="tracking_protection_title">追蹤保護模式</string>
+    <string name="tracking_protection_summary">防止可用來追蹤您的資源載入</string>
+    <string name="ad_block_title">廣告阻擋</string>
+    <string name="ad_block_summary">防止廣告載入</string>
+
+    <string name="fingerprinting_protection_title">指紋保護</string>
+    <string name="fingerprinting_protection_summary">防止網站紀錄瀏覽器指紋</string>
+    <string name="brave_shields_fingerprints_blocked">指紋紀錄已阻擋</string>
+    <string name="brave_shields_block_fingerprints_switch">指紋保護</string>
+
+    <string name="ad_block_regional_title">區域廣告阻擋</string>
+    <string name="ad_block_regional_summary">防止區域廣告載入</string>
+
+    <string name="ad_block_regional_summary_no_list">您所在的地區沒有可用的額外列表</string>
+
+    <string name="menu_exit">離開</string>
+
+    <string name="brave_sync">Adblocker Turbo Sync</string>
+    <string name="brave_sync_description">使用 Adblocker Turbo Sync 在您的裝置間安全同步瀏覽器資料，
+無須建立帳戶。點擊下方即可開始。</string>
+    <string name="brave_sync_have_existing_code">我已經取得同步代碼</string>
+    <string name="sync_settings_add_device_name_title">新增裝置名稱</string>
+    <string name="sync_settings_add_device_name_label">命名此裝置</string>
+    <string name="sync_example_device_name">Android 裝置</string>
+    <string name="brave_sync_qrcode">同步到裝置</string>
+    <string name="brave_sync_qrcode_message">使用已同步的裝置開啟 Adblocker Turbo 設定，選擇「裝置和設定」，
+輕觸「+」即可新增裝置並取得同步代碼。</string>
+    <string name="enter_code_words_sync">輸入代碼</string>
+    <string name="enter_code_words_below_sync">在下方輸入代碼。</string>
+    <string name="sync_device">同步裝置</string>
+    <string name="sync_device_failure">無法建立同步</string>
+    <string name="sync_device_success">成功建立同步</string>
+    <string name="reset_sync">重設同步...</string>
+    <string name="resetting_sync">您確定要重設此設備的同步設定？</string>
+
+    <string name="brave_stats_text_trackers">追蹤器
+已阻擋</string>
+    <string name="brave_stats_text_ads">廣告
+已阻擋</string>
+    <string name="brave_stats_text_https">HTTPS
+升级</string>
+    <string name="brave_stats_text_time">估計時間
+已節省</string>
+
+    <string name="send_metrics_title">傳送統計資料</string>
+
+    <string name="desktop_mode_title">桌面模式</string>
+    <string name="website_settings_category_desktop_view_enabled_summary">偏好使用電腦版網頁</string>
+    <string name="website_settings_category_desktop_view_disabled_summary">偏好使用行動版網頁</string>
+    <string name="website_settings_category_desktop_view_enabled">為新分頁啟用桌面檢視</string>
+    <string name="website_settings_category_desktop_view_disabled">為新分頁使用網站的行動版本 (推薦)</string>
+
+    <string name="brave_shields_first_group_title">阻擋監視器</string>
+    <string name="brave_shields_second_group_title">個別控制</string>
+    <string name="brave_shields">防護</string>
+    <string name="brave_shields_ads_and_trackers">廣告與追蹤器</string>
+    <string name="brave_shields_fingerprint_methods">指紋方式</string>
+    <string name="brave_shields_block_phishing_switch">阻擋網路釣魚</string>
+
+</resources>
